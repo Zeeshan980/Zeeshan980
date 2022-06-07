@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,14 +18,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aakash9868sinha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:mailtomeaakash@gmail.com">
+<a href="mailto:mailtoshaikh.zee@northeastern.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://isupersky.medium.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -34,22 +28,22 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+Currently, I am pursuing my master's in Data Analytic Engineering at Northeastern University, Boston. During my coursework and internship, I've worked on R, SQL, Python, and Tableau for maintaining large databases and used various professional statistical techniques to collect, analyze, and interpret data. Additionally, I worked on cleaning, reformatting, pre-processing, and visualizing data to understand data better and identify trends in data.<p>
 
-### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
+My interests mainly lie in Data Analytics and Data Science which is a fast-paced, challenging career centered on problem-solving and thinking outside of the box.<p>
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+My diversified experience includes proficiency in multiple technologies such as:<br/>
+
+Languages: Python, R programming, Assembly language programming, HTML<br/>
+Database: SQL(MySQL)<br/>
+Tools: Jupyter Notebooks, Pandas, NumPy, Mathplotlib<br/>
+Software: Tableau, MATLAB, Proteus, Microsoft office<br/>
+
+
+
+![Zeeshan's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Zeeshan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-
-### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
-<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
