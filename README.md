@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29 px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 </a>
 <a href="mailto:mailtoshaikh.zee@northeastern.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
