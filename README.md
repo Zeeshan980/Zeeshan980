@@ -32,6 +32,6 @@ My interests mainly lie in Data Analytics and Data Science which is a fast-paced
 My diversified experience includes proficiency in multiple technologies such as:<br/>
 
 Languages: Python, R programming, Assembly language programming, HTML<br/>
-Database: SQL(MySQL), MySql Server<br/>
+Database: SQL(MySQL) <br/>
 Tools: Jupyter Notebooks, Google Colab, Rstudio, Pandas, NumPy, Mathplotlib<br/>
 Software: Tableau, Data Wrapper, Flourish Studio, MATLAB, Proteus, Microsoft Office<br/>
