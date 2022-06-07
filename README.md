@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29 px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,12 +38,3 @@ Languages: Python, R programming, Assembly language programming, HTML<br/>
 Database: SQL(MySQL)<br/>
 Tools: Jupyter Notebooks, Pandas, NumPy, Mathplotlib<br/>
 Software: Tableau, MATLAB, Proteus, Microsoft office<br/>
-
-
-
-![Zeeshan's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Zeeshan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-<br />
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
