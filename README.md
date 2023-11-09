@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px" height="15px">, I'm [Zeeshan Ali Shaikh](https://www.linkedin.com/in/zeeshan980/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +31,8 @@ My interests mainly lie in Data Analytics and Data Science which is a fast-paced
 
 My diversified experience includes proficiency in multiple technologies such as:<br/>
 
-Languages: Python, R programming, Assembly language programming, HTML<br/>
-Database: SQL(MySQL) <br/>
-Tools: Jupyter Notebooks, Google Colab, Rstudio, Pandas, NumPy, Mathplotlib<br/>
-Software: Tableau, Data Wrapper, Flourish Studio, MATLAB, Proteus, Microsoft Office<br/>
+Languages: R, Python, SQL, HTML <br/>
+Databases: MySQL, NoSQL, MongoDB <br/>
+Libraries: NumPy, Pandas, Dash, Seaborn, Scikit-Learn, Matplotlib, Lubridate, Dplyr, Ggplot, Knitr <br/>
+Software: Jupyter, Google Colab, Pycharm, R-studio, Tableau, Alteryx, Jira, Flourish Studio, Data Wrapper, PowerBI, MS Office <br/>
+
